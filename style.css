@@ -470,6 +470,8 @@
 
     .products-item-circle {
         padding: 20px;
+        width: 140px;
+        height: 140px;
     }
 }
 
@@ -539,6 +541,11 @@
         flex-direction: column;
         align-items: start;
         gap: 40px;
+    }
+
+    .products-item-circle {
+        width: 120px;
+        height: 120px;
     }
 }
 
